@@ -20,6 +20,7 @@
     "start:dev": "sirv public --dev"
   },
   "dependencies": {
-    "svelte-extras": "^2.0.2"
+    "svelte-extras": "^2.0.2",
+    "svelte-routing": "^1.0.0"
   }
 }
